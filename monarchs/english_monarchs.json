@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Alfred",
+        "portrait": "./monarchs/england/Alfred.jpg",
+        "start_year": "King of Wessex from 871 c.886",
+        "end_year": "26 October 899",
+        "reign_time": "13 years",
+        "country": "England"
+    },
+    {
+        "name": "Edward the Elder",
+        "portrait": "./monarchs/england/Edward_the_Elder.jpg",
+        "start_year": "26 October 899",
+        "end_year": "17 July 924",
+        "reign_time": "24 years, 266 days",
+        "country": "England"
+    },
+    {
+        "name": "Ælfweard",
+        "portrait": "./monarchs/england/Ælfweard.jpg",
+        "start_year": "2 August 924",
+        "end_year": "",
+        "reign_time": "16 days",
+        "country": "England"
+    },
+    {
+        "name": "Æthelstan",
+        "portrait": "./monarchs/england/Æthelstan.jpg",
+        "start_year": "939 27 October 939",
+        "end_year": "14",
+        "reign_time": "15 years",
+        "country": "England"
+    },
+    {
+        "name": "Edmund I",
+        "portrait": "./monarchs/england/Edmund_I.jpg",
+        "start_year": "Edmund the Magnificent27 October 939",
+        "end_year": "26 May 946",
+        "reign_time": "6 years, 212 days",
+        "country": "England"
+    },
+    {
+        "name": "Eadred",
+        "portrait": "./monarchs/england/Eadred.jpg",
+        "start_year": "26 May 946",
+        "end_year": "23 November 955",
+        "reign_time": "9 years, 182 days",
+        "country": "England"
+    },
+    {
+        "name": "Eadwig",
+        "portrait": "./monarchs/england/Eadwig.jpg",
+        "start_year": "Fair23 November 955",
+        "end_year": "1 October 959",
+        "reign_time": "3 years, 313 days",
+        "country": "England"
+    },
+    {
+        "name": "Edgar the Peaceful",
+        "portrait": "./monarchs/england/Edgar_the_Peaceful.jpg",
+        "start_year": "1 October 959",
+        "end_year": "8 July 975",
+        "reign_time": "15 years, 281 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward the Martyr",
+        "portrait": "./monarchs/england/Edward_the_Martyr.jpg",
+        "start_year": "8 July 975",
+        "end_year": "18 March 978",
+        "reign_time": "2 years, 254 days",
+        "country": "England"
+    },
+    {
+        "name": "Æthelred the Unready",
+        "portrait": "./monarchs/england/Æthelred_the_Unready.jpg",
+        "start_year": "1013",
+        "end_year": "34",
+        "reign_time": "35 years",
+        "country": "England"
+    },
+    {
+        "name": "Sweyn",
+        "portrait": "./monarchs/england/Sweyn.jpg",
+        "start_year": "Sweyn Forkbeard25 December 1013",
+        "end_year": "3 February 1014",
+        "reign_time": "41 days",
+        "country": "England"
+    },
+    {
+        "name": "Æthelred the Unready",
+        "portrait": "./monarchs/england/Æthelred_the_Unready.jpg",
+        "start_year": "early 1014",
+        "end_year": "23 April 1016",
+        "reign_time": "2 years, 81 days",
+        "country": "England"
+    },
+    {
+        "name": "Edmund Ironside",
+        "portrait": "./monarchs/england/Edmund_Ironside.jpg",
+        "start_year": "23 April 1016",
+        "end_year": "30 November 1016",
+        "reign_time": "222 days",
+        "country": "England"
+    },
+    {
+        "name": "Cnut",
+        "portrait": "./monarchs/england/Cnut.jpg",
+        "start_year": "Cnut the Great18 October 1016",
+        "end_year": "12 November 1035",
+        "reign_time": "19 years, 26 days",
+        "country": "England"
+    },
+    {
+        "name": "Harold Harefoot",
+        "portrait": "./monarchs/england/Harold_Harefoot.jpg",
+        "start_year": "c",
+        "end_year": "",
+        "reign_time": "4 years, 127 days",
+        "country": "England"
+    },
+    {
+        "name": "Harthacnut",
+        "portrait": "./monarchs/england/Harthacnut.jpg",
+        "start_year": "17 March 1040",
+        "end_year": "8 June 1042",
+        "reign_time": "2 years, 84 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward the Confessor",
+        "portrait": "./monarchs/england/Edward_the_Confessor.jpg",
+        "start_year": "8 June 1042",
+        "end_year": "5 January 1066",
+        "reign_time": "23 years, 212 days",
+        "country": "England"
+    },
+    {
+        "name": "Harold II",
+        "portrait": "./monarchs/england/Harold_II.jpg",
+        "start_year": "Harold Godwinson6 January 1066",
+        "end_year": "14 October 1066",
+        "reign_time": "282 days",
+        "country": "England"
+    },
+    {
+        "name": "Edgar Ætheling",
+        "portrait": "./monarchs/england/Edgar_Ætheling.jpg",
+        "start_year": "d",
+        "end_year": "",
+        "reign_time": "64 days",
+        "country": "England"
+    },
+    {
+        "name": "William I",
+        "portrait": "./monarchs/england/William_I.jpg",
+        "start_year": "25 December 1066",
+        "end_year": "9 September 1087",
+        "reign_time": "20 years, 259 days",
+        "country": "England"
+    },
+    {
+        "name": "William II",
+        "portrait": "./monarchs/england/William_II.jpg",
+        "start_year": "",
+        "end_year": "2 August 1100",
+        "reign_time": "12 years, 311 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry I",
+        "portrait": "./monarchs/england/Henry_I.jpg",
+        "start_year": "",
+        "end_year": "1 December 1135",
+        "reign_time": "35 years, 119 days",
+        "country": "England"
+    },
+    {
+        "name": "Stephen",
+        "portrait": "./monarchs/england/Stephen.jpg",
+        "start_year": "",
+        "end_year": "25 October 1154",
+        "reign_time": "18 years, 308 days",
+        "country": "England"
+    },
+    {
+        "name": "Matilda",
+        "portrait": "./monarchs/england/Matilda.jpg",
+        "start_year": "Empress Matilda7 April 1141",
+        "end_year": "1 November 1141",
+        "reign_time": "209 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry II",
+        "portrait": "./monarchs/england/Henry_II.jpg",
+        "start_year": "",
+        "end_year": "6 July 1189",
+        "reign_time": "34 years, 200 days",
+        "country": "England"
+    },
+    {
+        "name": "Richard I",
+        "portrait": "./monarchs/england/Richard_I.jpg",
+        "start_year": "",
+        "end_year": "6 April 1199",
+        "reign_time": "9 years, 216 days",
+        "country": "England"
+    },
+    {
+        "name": "John",
+        "portrait": "./monarchs/england/John.jpg",
+        "start_year": "",
+        "end_year": "19 October 1216",
+        "reign_time": "17 years, 146 days",
+        "country": "England"
+    },
+    {
+        "name": "Louis",
+        "portrait": "./monarchs/england/Louis.jpg",
+        "start_year": "Louis the Lion2 June 1216",
+        "end_year": "20 September 1217",
+        "reign_time": "1 year, 111 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry III",
+        "portrait": "./monarchs/england/Henry_III.jpg",
+        "start_year": "",
+        "end_year": "16 November 1272",
+        "reign_time": "56 years, 20 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward I",
+        "portrait": "./monarchs/england/Edward_I.jpg",
+        "start_year": "",
+        "end_year": "7 July 1307",
+        "reign_time": "34 years, 230 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward II",
+        "portrait": "./monarchs/england/Edward_II.jpg",
+        "start_year": "",
+        "end_year": "Abdicated20 January 1327",
+        "reign_time": "19 years, 197 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward III",
+        "portrait": "./monarchs/england/Edward_III.jpg",
+        "start_year": "",
+        "end_year": "21 June 1377",
+        "reign_time": "50 years, 148 days",
+        "country": "England"
+    },
+    {
+        "name": "Richard II",
+        "portrait": "./monarchs/england/Richard_II.jpg",
+        "start_year": "",
+        "end_year": "29 September 1399",
+        "reign_time": "22 years, 100 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry IV",
+        "portrait": "./monarchs/england/Henry_IV.jpg",
+        "start_year": "",
+        "end_year": "20 March 1413",
+        "reign_time": "13 years, 172 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry V",
+        "portrait": "./monarchs/england/Henry_V.jpg",
+        "start_year": "",
+        "end_year": "31 August 1422",
+        "reign_time": "9 years, 164 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry VI",
+        "portrait": "./monarchs/england/Henry_VI.jpg",
+        "start_year": "",
+        "end_year": "4 March 1461",
+        "reign_time": "38 years, 185 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward IV",
+        "portrait": "./monarchs/england/Edward_IV.jpg",
+        "start_year": "",
+        "end_year": "3 October 1470",
+        "reign_time": "9 years, 214 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry VI",
+        "portrait": "./monarchs/england/Henry_VI.jpg",
+        "start_year": "3 October 1470",
+        "end_year": "11 April 1471",
+        "reign_time": "191 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward IV",
+        "portrait": "./monarchs/england/Edward_IV.jpg",
+        "start_year": "11 April 1471",
+        "end_year": "9 April 1483",
+        "reign_time": "11 years, 364 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward V",
+        "portrait": "./monarchs/england/Edward_V.jpg",
+        "start_year": "h",
+        "end_year": "",
+        "reign_time": "78 days",
+        "country": "England"
+    },
+    {
+        "name": "Richard III",
+        "portrait": "./monarchs/england/Richard_III.jpg",
+        "start_year": "",
+        "end_year": "22 August 1485",
+        "reign_time": "2 years, 58 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry VII",
+        "portrait": "./monarchs/england/Henry_VII.jpg",
+        "start_year": "",
+        "end_year": "21 April 1509",
+        "reign_time": "23 years, 243 days",
+        "country": "England"
+    },
+    {
+        "name": "Henry VIII",
+        "portrait": "./monarchs/england/Henry_VIII.jpg",
+        "start_year": "",
+        "end_year": "28 January 1547",
+        "reign_time": "37 years, 282 days",
+        "country": "England"
+    },
+    {
+        "name": "Edward VI",
+        "portrait": "./monarchs/england/Edward_VI.jpg",
+        "start_year": "",
+        "end_year": "6 July 1553",
+        "reign_time": "6 years, 160 days",
+        "country": "England"
+    },
+    {
+        "name": "Jane",
+        "portrait": "./monarchs/england/Jane.jpg",
+        "start_year": "Lady Jane Grey10 July 1553",
+        "end_year": "19 July 1553",
+        "reign_time": "9 days",
+        "country": "England"
+    },
+    {
+        "name": "Mary I",
+        "portrait": "./monarchs/england/Mary_I.jpg",
+        "start_year": "",
+        "end_year": "17 November 1558",
+        "reign_time": "5 years, 122 days",
+        "country": "England"
+    },
+    {
+        "name": "Philip",
+        "portrait": "./monarchs/england/Philip.jpg",
+        "start_year": "",
+        "end_year": "17 November 1558",
+        "reign_time": "4 years, 116 days",
+        "country": "England"
+    },
+    {
+        "name": "Elizabeth I",
+        "portrait": "./monarchs/england/Elizabeth_I.jpg",
+        "start_year": "",
+        "end_year": "24 March 1603",
+        "reign_time": "44 years, 128 days See also:Elizabethan era",
+        "country": "England"
+    },
+    {
+        "name": "James I",
+        "portrait": "./monarchs/england/James_I.jpg",
+        "start_year": "",
+        "end_year": "27 March 1625",
+        "reign_time": "22 years, 4 days",
+        "country": "England"
+    },
+    {
+        "name": "Charles I",
+        "portrait": "./monarchs/england/Charles_I.jpg",
+        "start_year": "",
+        "end_year": "30 January 1649",
+        "reign_time": "23 years, 310 days",
+        "country": "England"
+    },
+    {
+        "name": "Oliver Cromwell",
+        "portrait": "./monarchs/england/Oliver_Cromwell.jpg",
+        "start_year": "3 September 1658",
+        "end_year": "",
+        "reign_time": "4 years, 262 days",
+        "country": "England"
+    },
+    {
+        "name": "Richard Cromwell",
+        "portrait": "./monarchs/england/Richard_Cromwell.jpg",
+        "start_year": "7 May 1659",
+        "end_year": "",
+        "reign_time": "247 days",
+        "country": "England"
+    },
+    {
+        "name": "Charles II",
+        "portrait": "./monarchs/england/Charles_II.jpg",
+        "start_year": "",
+        "end_year": "6 February 1685",
+        "reign_time": "24 years, 254 days",
+        "country": "England"
+    },
+    {
+        "name": "James II",
+        "portrait": "./monarchs/england/James_II.jpg",
+        "start_year": "",
+        "end_year": "23 December 1688",
+        "reign_time": "Overthrownafter 3 years, 321 days",
+        "country": "England"
+    },
+    {
+        "name": "Mary II",
+        "portrait": "./monarchs/england/Mary_II.jpg",
+        "start_year": "",
+        "end_year": "28 December 1694",
+        "reign_time": "5 years, 319 days",
+        "country": "England"
+    },
+    {
+        "name": "William III",
+        "portrait": "./monarchs/england/William_III.jpg",
+        "start_year": "",
+        "end_year": "8 March 1702",
+        "reign_time": "13 years, 24 days",
+        "country": "England"
+    },
+    {
+        "name": "Anne",
+        "portrait": "./monarchs/england/Anne.jpg",
+        "start_year": "5 years, 55 days",
+        "end_year": "Queen of Great Britain until1 August 1714",
+        "reign_time": "12 years, 147 days",
+        "country": "England"
+    }
+]

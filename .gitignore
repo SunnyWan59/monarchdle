@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+debug.txt
 # production
 /build
 

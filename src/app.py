@@ -8,27 +8,26 @@ app = Flask(__name__)
 Just for now. Not good for production.
 TODO: Move this to a SQLite database.
 """
-with open('./monarchs/english_monarchs.json', 'r') as file:
+with open('../src/monarchs/english_monarchs.json', 'r') as file:
     monarchs = json.load(file)
 
 # Initialize game state
+global current_Monarch
 current_Monarch = None
 
 
-@app.route("/api/champion", methods=["GET","PUT"])
-def update_champion():
-    """Update the current Monarch."""
-    global current_Monarch
-    current_Monarch = random.choice(monarchs)
-    return jsonify({"message": "Monarch updated!"})
-
-def get_champion():
-    """Get the current Monarch."""
-    if not current_Monarch:
-        return jsonify({"error": "Game has not started."})
-    return jsonify({
-        "champion": current_Monarch["name"]
-    })
+@app.route("/api/monarch", methods=["GET, POST"])
+def monarch():
+    if request.method == "POST":
+        current_Monarch = random.choice(monarchs)
+        return jsonify({"message": "Monarch updated!"})
+    elif request.method == "GET":
+        if not current_Monarch:
+            current_Monarch = random.choice(monarchs)
+        return jsonify({"monarch": current_Monarch["name"]})
+    
+    
+@app.route("/api/hint", methods=["GET","PUT"])
 def get_champion_hint():
     """Get a hint for the current Monarch. Might not be needed."""
     return jsonify({
@@ -72,9 +71,8 @@ def check_guess():
 @app.route("/api/restart", methods=["POST"])
 def restart_game():
     """Restart the game with a new monarch."""
-    global current_Monarch
     current_Monarch = random.choice(monarchs)
     return jsonify({"message": "Game restarted!"})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()

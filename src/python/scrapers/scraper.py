@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import json
 import re
 import os
+from pathlib import Path
+
+path = Path(r'..\monarchs\monarchs\england')
 
 def scrape_english_monarchs():
     url = "https://en.wikipedia.org/wiki/List_of_English_monarchs"
@@ -40,7 +43,7 @@ def scrape_english_monarchs():
                 # Download the portrait image
                 if portrait_link:
                     image_name = name.replace(" ", "_") + ".jpg"
-                    image_path = f'./monarchs/england/{image_name}'
+                    image_path = f'src/python/monarchs/england/{image_name}'
                     os.makedirs(os.path.dirname(image_path), exist_ok=True)
                     if not os.path.exists(image_path):
                         image_response = requests.get(portrait_link)
@@ -83,7 +86,6 @@ def scrape_english_monarchs():
 data = scrape_english_monarchs()
 
 # Save as JSON
-with open('./monarchs/english_monarchs.json', 'w', encoding='utf-8') as file:
+with open('src/python/monarchs/english_monarchs.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, indent=4, ensure_ascii=False)
-
-# print("Data saved to english_monarchs.json")
+print("Data saved to english_monarchs.json")
